@@ -1,6 +1,6 @@
 import "./BriefProfile.css";
 import { FiLinkedin, FiGithub } from "react-icons/fi";
-import img1 from "../assets/images/img1.jpg";
+import img1 from "../assets/images/img1.png";
 
 import React from "react";
 
