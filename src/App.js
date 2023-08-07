@@ -7,7 +7,7 @@ import { Route, Routes } from "react-router-dom";
 function App() {
   return (
     <>
-      <Routes basename="/portfolio85">
+      <Routes>
         <Route path="/PORTFOLIO55" element={<MainPage />} />
       </Routes>
     </>
